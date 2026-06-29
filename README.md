@@ -10,6 +10,17 @@ Ce dépôt contient le script et les données associés au travail réalisé dan
                                       -> Le jeu de données ici est celui du site de Fosse (66), il est donné à titre d'exmple si vous souhaitez tester le script. 
 - `Graphs_Fosse/` : Regroupe les sorties graphiques générées par l'analyse pour le site de Fosse (66).
 
+## 🧪 Analyses effectuées par le script
+
+Le script réalise une analyse complète des données produits par le protocole en suivant plusieurs étapes clés :
+
+- **Évaluation de l'effort d'échantillonnage :** Ajustement de modèles mathématiques **(Arrhenius, Gleason, Lomolino, Michaelis-Menten)**, puis choix d'un modèle pour réaliser des **courbes de raréfaction**. 
+- **Analyse de la richesse spacifique :** Calcul de la richesse spécifique, puis tests de comparaison paramétriques **(test de Student)** ou non paramétriques **(test de Wilcoxon)**, selon la normalité de la distribution des données.
+- **Analyse par classification hiérarchique :** Réalisation de **CAH (Classification ascendante hiérarchique)** et calcul de l'indice de **Calinski-Harabasz**.
+- **Analyse multivariée :** Exécution d'une **AFC (Analyse factorielle des correspondances)**, avec l'utilisation de **tests de permutation (PERMANOVA/Adonis)** et projection des espèces les plus contributives, des types biologiques et d'indicateurs écologiques des espèces **(EIVE)**. 
+
+
+  
 ## 📊 Préparation des données
 Si vous souhaitez appliquer ces analyses à d'autres sites, il est impératif de respecter le format des fichiers sources :
 -  **Format :** Utilisez exclusivement le format `.xlsx`. Et renommez votre fichier `Data.xlsx.
