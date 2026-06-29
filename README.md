@@ -1,7 +1,7 @@
 # Analyse et suivi des communautés végétales - Mémoire M1
 
 
-Ce dépôt contient le script et les données associés au travail réalisé dans le cadre de mon Mémoire de Master 1, sur le protocole de suivis des communautés végétales testé par le CEN Occitanie.L'objectif étant de proposer une démarche analytique complète, adaptée à la fois aux données produites par ce protocole et aux compétences des gestionnaires.
+Ce dépôt contient le script et les données associés au travail réalisé dans le cadre de mon Mémoire de Master 1, sur le protocole de suivis des communautés végétales testé par le CEN Occitanie. L'objectif étant de proposer une démarche analytique complète, adaptée à la fois aux données produites par ce protocole et aux compétences des gestionnaires.
 
 
 ## 📂 Contenu du dépôt
