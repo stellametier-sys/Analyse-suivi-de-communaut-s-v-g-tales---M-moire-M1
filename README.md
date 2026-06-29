@@ -17,4 +17,4 @@ Le script d'analyse est conçu pour être accessible et pédagogique :
 
 ## 👤 Contact
 
-Pour toute question relative à ce travail ou à l'utilisation des scripts, n'hésitez pas à me contacter via mon profil GitHub.
+Pour toute question relative à ce travail ou à l'utilisation du script, n'hésitez pas à me contacter via mon profil GitHub.
