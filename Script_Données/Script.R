@@ -1,5 +1,7 @@
-# SCRIPT ANALYSE PROTOCOLE LIFE 
-# Par STELLA MÉTIER - CEN Occitanie
+# SCRIPT ANALYSE PROTOCOLE COMMUNAUTÉS VÉGÉTALES
+# Auteur : Stella MÉTIER
+# Année : 2026
+# Contact : stella.metier@cen-occitanie.org
 
 
 # 1. CHARGEMENT DONNEES ----
